@@ -32,7 +32,7 @@ Sou um programador iniciante focado em **desenvolvimento backend** e **banco de 
 
 ### 📂 Projetos Recentes
 1. **[Churraspy](https://github.com/dvsalvaya/churraspy)**  
-   `Python` `SQLite`  
+   `Python` `SQLite` `Pandas`  
    Aplicativo de gerenciamento de churrasco
 
 2. **[Aprendizado](https://github.com/dvsalvaya/Projetos_Aprendizado)**  
