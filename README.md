@@ -1,7 +1,7 @@
 # Olá, sou Davi Salvaya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Backend+e+IA;Entusiasta+em+CyberSecurity;Futuro+Engenheiro+de+Software" alt="Título dinâmico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciencia+da+Computacao;Desenvolvedor+Backend+e+IA;Entusiasta+em+CyberSecurity;Futuro+Engenheiro+de+Software" alt="Título dinâmico" />
 </div>
 
 ---
@@ -59,12 +59,23 @@ Atualmente, estou:
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Raio-X do Meu Perfil
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvsalvaya&show_icons=true&theme=radical" alt="Estatísticas do Davi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvsalvaya&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://img.shields.io/badge/Foco_Principal-Backend_&_IA-27A4F7?style=for-the-badge" alt="Foco Principal" />
+  <img src="https://img.shields.io/badge/Projetos_de_Destaque-4+-005571?style=for-the-badge" alt="Projetos" />
+  <img src="https://img.shields.io/badge/Gestão_de_Equipe-119_Estudantes-4CAF50?style=for-the-badge" alt="Gestão de Equipe" />
+  <img src="https://img.shields.io/badge/Linguagem_Mais_Usada-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem Principal" />
 </div>
+
+<br>
+
+| 🎯 **Área de Atuação** | 💻 **Principais Tecnologias** | 📈 **Aplicações Práticas** |
+| :--- | :--- | :--- |
+| **Inteligência Artificial** | Python, LangChain, LangGraph | Chatbots (BIT-IEEE), Assistentes Virtuais |
+| **Desenvolvimento Back-end** | Python, C/C++, Go, SQL | Integração de APIs, Automação, Bots (Discord) |
+| **Engenharia de Software** | Git/GitHub, Testes, Deploy | Ciclo de vida completo (SDLC), Gamificação |
+| **Robótica & Liderança** | C, C++, Gestão de RH | ASIMUFF-UFF, Recrutamento, Algoritmos |
 
 ---
 
