@@ -1,16 +1,16 @@
 # Olá, sou Davi Salvaya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciencia+da+Computacao;Desenvolvedor+Backend+e+IA;Entusiasta+em+CyberSecurity;Futuro+Engenheiro+de+Software" alt="Título dinâmico" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciencia+da+Computacao;Desenvolvedor+Backend+e+IA;Futuro+Engenheiro+de+Software" alt="Título dinâmico" />
 </div>
 
 ---
 
 ### 💻 Sobre Mim
-Sou estudante de Ciência da Computação na Universidade Federal Fluminense (UFF) e possuo formação técnica em Programação de Sistemas. Tenho uma sólida base em back-end e Inteligência Artificial, com vivência no ciclo completo de desenvolvimento de software. 
+Sou estudante de Ciência da Computação na Universidade Federal Fluminense (UFF) e possuo formação técnica em Programação de Sistemas. Tenho foco em back-end e Inteligência Artificial, vivência no ciclo completo de desenvolvimento de software. 
 
 Atualmente, estou:
-- 🎓 Cursando Ciência da Computação na UFF (Previsão: 12/2029).
+- 🎓 Cursando Ciência da Computação na UFF (Previsão: 06/2029).
 - 🚀 Trabalhando como Desenvolvedor Voluntário no IEEE, criando o BIT-IEEE, um chatbot com IA.
 - 🤖 Atuando no desenvolvimento de software (C/C++) e gerindo o RH da equipe de robótica ASIMUFF-UFF.
 - 📚 Estudando Golang por conta própria e CyberSecurity (Hackers do Bem).
@@ -22,13 +22,10 @@ Atualmente, estou:
 
 #### Linguagens
 <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 
 #### Bibliotecas, Frameworks e Bancos de Dados
-<img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg"/>
 <img align="center" alt="LangChain" height="30" src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat&logo=chainlink&logoColor=blue"/>
 <img align="center" alt="APIs" height="30" src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat&logo=json&logoColor=white"/>
@@ -72,8 +69,8 @@ Atualmente, estou:
 
 | 🎯 **Área de Atuação** | 💻 **Principais Tecnologias** | 📈 **Aplicações Práticas** |
 | :--- | :--- | :--- |
-| **Inteligência Artificial** | Python, LangChain, LangGraph | Chatbots (BIT-IEEE), Assistentes Virtuais |
-| **Desenvolvimento Back-end** | Python, C/C++, Go, SQL | Integração de APIs, Automação, Bots (Discord) |
+| **Inteligência Artificial** | Agno, LangChain, LangGraph | Chatbots (BIT-IEEE), Assistentes Virtuais |
+| **Desenvolvimento Back-end** | Python, Go, SQL | Integração de APIs, Automação, Bots (Discord) |
 | **Engenharia de Software** | Git/GitHub, Testes, Deploy | Ciclo de vida completo (SDLC), Gamificação |
 | **Robótica & Liderança** | C, C++, Gestão de RH | ASIMUFF-UFF, Recrutamento, Algoritmos |
 
@@ -82,7 +79,7 @@ Atualmente, estou:
 ### 📧 Vamos Conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-salvaya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvsalvaya@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/salvaya_54207)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sondrs7744)
 
 ---
 
