@@ -1,87 +1,111 @@
-# Olá, sou Davi Salvaya! 👋
+<h1 align="center">Olá, eu sou Davi Salvaya 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciencia+da+Computacao;Desenvolvedor+Backend+e+IA;Futuro+Engenheiro+de+Software" alt="Título dinâmico" />
-</div>
-
----
-
-### 💻 Sobre Mim
-Sou estudante de Ciência da Computação na Universidade Federal Fluminense (UFF) e possuo formação técnica em Programação de Sistemas. Tenho foco em back-end e Inteligência Artificial, vivência no ciclo completo de desenvolvimento de software. 
-
-Atualmente, estou:
-- 🎓 Cursando Ciência da Computação na UFF (Previsão: 06/2029).
-- 🚀 Trabalhando como Desenvolvedor Voluntário no IEEE, criando o BIT-IEEE, um chatbot com IA.
-- 🤖 Atuando no desenvolvimento de software (C/C++) e gerindo o RH da equipe de robótica ASIMUFF-UFF.
-- 📚 Estudando Golang por conta própria e CyberSecurity (Hackers do Bem).
-- 🎯 Buscando uma oportunidade de estágio em Engenharia/Desenvolvimento de Software.
+<p align="center">
+🎓 Estudante de Ciência da Computação na UFF <br>
+💻 Desenvolvedor focado em Back-end, Inteligência Artificial e Automação <br>
+🚀 Construindo soluções com Python, APIs e agentes de IA
+</p>
 
 ---
 
-### 🛠️ Tech Stack e Ferramentas
+## 🚀 Sobre mim
 
-#### Linguagens
-<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+Sou estudante de Ciência da Computação na Universidade Federal Fluminense (UFF) e desenvolvedor apaixonado por tecnologia, automação e Inteligência Artificial.
 
-#### Bibliotecas, Frameworks e Bancos de Dados
-<img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg"/>
-<img align="center" alt="LangChain" height="30" src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat&logo=chainlink&logoColor=blue"/>
-<img align="center" alt="APIs" height="30" src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat&logo=json&logoColor=white"/>
+Tenho experiência prática com:
+- desenvolvimento back-end;
+- integração de APIs;
+- bots inteligentes;
+- automação de processos;
+- aplicações com IA utilizando LangChain e Agno.
 
-#### Ferramentas
-<img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+Atualmente participo de projetos acadêmicos e voluntários envolvendo IA aplicada, robótica e engenharia de software.
 
 ---
 
-### 📂 Projetos de Destaque
+## 🛠️ Tecnologias e Ferramentas
 
-1. **BIT-IEEE (Chatbot com IA)** *Tecnologias: Python, LangChain, LangGraph* Desenvolvimento de um chatbot inteligente para centralizar informações organizacionais do IEEE, automatizando respostas com alta precisão.
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
-2. **EGO - Aplicativo de Gamificação** *Tecnologias: React, Low-code* Aplicativo full-stack para gamificar rotinas diárias, com ciclo completo de desenvolvimento e deploy em produção.
+### ⚙️ Back-end & IA
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![LangChain](https://img.shields.io/badge/-LangChain-000)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
-3. **Assistente de Voz e Bot Discord** *Tecnologias: Python, APIs Externas* Assistente de reconhecimento de voz e bot automatizado para o Discord, focados na automação de tarefas rotineiras e consultas web rápidas.
-
-4. **Algoritmos para Robótica (ASIMUFF)** *Tecnologias: C, C++* Desenvolvimento de algoritmos aplicados a projetos e competições de robôs na universidade.
-
----
-
-### 📌 Metas para o Futuro
-- [ ] Conseguir minha primeira oportunidade de estágio em Desenvolvimento de Software.
-- [ ] Aprofundar meus conhecimentos em Golang para construção de APIs robustas.
-- [ ] Concluir o curso Hackers do Bem e aplicar conceitos de CyberSecurity em meus projetos.
-- [ ] Expandir minha fluência no Inglês (Atualmente nível B1 - Intermediário).
-
----
-
-### 📊 Raio-X do Meu Perfil
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Foco_Principal-Backend_&_IA-27A4F7?style=for-the-badge" alt="Foco Principal" />
-  <img src="https://img.shields.io/badge/Projetos_de_Destaque-4+-005571?style=for-the-badge" alt="Projetos" />
-  <img src="https://img.shields.io/badge/Gestão_de_Equipe-119_Estudantes-4CAF50?style=for-the-badge" alt="Gestão de Equipe" />
-  <img src="https://img.shields.io/badge/Linguagem_Mais_Usada-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Linguagem Principal" />
-</div>
-
-<br>
-
-| 🎯 **Área de Atuação** | 💻 **Principais Tecnologias** | 📈 **Aplicações Práticas** |
-| :--- | :--- | :--- |
-| **Inteligência Artificial** | Agno, LangChain, LangGraph | Chatbots (BIT-IEEE), Assistentes Virtuais |
-| **Desenvolvimento Back-end** | Python, Go, SQL | Integração de APIs, Automação, Bots (Discord) |
-| **Engenharia de Software** | Git/GitHub, Testes, Deploy | Ciclo de vida completo (SDLC), Gamificação |
-| **Robótica & Liderança** | C, C++, Gestão de RH | ASIMUFF-UFF, Recrutamento, Algoritmos |
+### 🤖 Áreas de Interesse
+- Inteligência Artificial
+- Agentes de IA
+- Automação
+- APIs REST
+- Engenharia de Software
+- Robótica
 
 ---
 
-### 📧 Vamos Conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-salvaya/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dvsalvaya@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sondrs7744)
+## 📌 Projetos em Destaque
+
+### 🤖 BIT-IEEE
+Chatbot inteligente desenvolvido para centralizar informações organizacionais do IEEE utilizando IA e automação de respostas.
+
+**Tecnologias:** Python, LangChain, APIs
 
 ---
 
-⭐ "A jornada de mil milhas começa com um único passo" - Lao Tzu  
-🚀 Sempre construindo algo novo e aprendendo!
+### 🎙️ Assistente de Voz com IA
+Assistente virtual com reconhecimento de voz e integração de serviços inteligentes para automação de tarefas e consultas.
+
+**Tecnologias:** Python, APIs, IA
+
+---
+
+### 💬 Bot Multifuncional para Discord
+Bot desenvolvido para automação, integração de APIs e gerenciamento de funcionalidades em tempo real no Discord.
+
+**Tecnologias:** Python, Discord.py, APIs REST
+
+---
+
+### 🎮 EGO - Aplicativo de Gamificação
+Aplicação desenvolvida para gamificar hábitos e rotinas diárias, incentivando produtividade e organização pessoal.
+
+**Tecnologias:** React, Low-code
+
+---
+
+## 📚 Atualmente estudando
+
+- FastAPI
+- Docker
+- PostgreSQL
+- Arquitetura Back-end
+- RAG e agentes de IA
+- Engenharia de Software
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dvsalvaya&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvsalvaya&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Contato
+
+📧 Email: dvsalvaya@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/davi-salvaya  
+🐙 GitHub: https://github.com/dvsalvaya
+
+---
+
+<p align="center">
+✨ Sempre aprendendo, construindo e evoluindo.
+</p>
